@@ -512,10 +512,6 @@ require(['jquery'], function($) {
 				"url": "openSettingPage()",
 				"icon": "img/bookmarks/settings.png"
 			}, {
-				"name": "扫一扫",
-				"url": "https://www.the-qrcode-generator.com/scan",
-				"icon": "img/bookmarks/qrscan.png"
-			}, {
 				"name": "AirPortal",
 				"url": "https://airportal.cn",
 				"icon": "img/bookmarks/airportal.png"
@@ -547,6 +543,10 @@ require(['jquery'], function($) {
 				"name": "腾讯视频",
 				"url": "https://v.qq.com",
 				"icon": "img/bookmarks/tencentvideo.png"
+			}, {
+				"name": "Nintendo",
+				"url": "https://accounts.nintendo.com",
+				"icon": "img/bookmarks/nintendo.png"
 			}],
 		};
 		this.intiOptions = this.options;
