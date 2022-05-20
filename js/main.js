@@ -530,7 +530,7 @@ require(['jquery'], function($) {
 			},{
 				"name": "华为账号",
 				"url": "https://id1.cloud.huawei.com/CAS/mobile/standard/wapLogin.html",
-				"icon": ""
+				"icon": "img/bookmarks/hwzh.png"
 			}],
 		};
 		this.intiOptions = this.options;
