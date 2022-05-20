@@ -527,6 +527,10 @@ require(['jquery'], function($) {
 				"name": "Nintendo",
 				"url": "https://accounts.nintendo.com",
 				"icon": "img/bookmarks/nintendo.png"
+			},{
+				"name": "华为账号",
+				"url": "https://id1.cloud.huawei.com/CAS/mobile/standard/wapLogin.html",
+				"icon": ""
 			}],
 		};
 		this.intiOptions = this.options;
