@@ -504,10 +504,6 @@ require(['jquery'], function($) {
 				"url": "openbookmarksList()",
 				"icon": "img/bookmarks/bookmarks.png"
 			}, {
-				"name": "精选",
-				"url": "choice()",
-				"icon": "img/bookmarks/discover.png"
-			}, {
 				"name": "设置",
 				"url": "openSettingPage()",
 				"icon": "img/bookmarks/settings.png"
@@ -527,22 +523,6 @@ require(['jquery'], function($) {
 				"name": "Gitee",
 				"url": "https://gitee.com",
 				"icon": "img/bookmarks/gitee.png"
-			}, {
-				"name": "抖音",
-				"url": "https://douyin.com",
-				"icon": "img/bookmarks/douyin.png"
-			}, {
-				"name": "B站",
-				"url": "https://bilibili.com",
-				"icon": "img/bookmarks/bilibili.png"
-			}, {
-				"name": "爱奇艺",
-				"url": "https://iqiyi.com",
-				"icon": "img/bookmarks/iqiyi.png"
-			}, {
-				"name": "腾讯视频",
-				"url": "https://v.qq.com",
-				"icon": "img/bookmarks/tencentvideo.png"
 			}, {
 				"name": "Nintendo",
 				"url": "https://accounts.nintendo.com",
